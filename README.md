@@ -1,2 +1,5 @@
 # Unreal Dialogue System
- Dialogue System made in Unreal Engine.
+An ongoing project on creating a Dialogue System in Unreal Engine.
+
+Current Stage: 
+Early Development
